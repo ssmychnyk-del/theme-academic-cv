@@ -29,7 +29,7 @@ role: Refurbished Hybrid Batteries | Expert Replacement & DIY Guides
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: OpenAI
-    url: https://openai.com/
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -38,17 +38,17 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: 
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: 
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: 
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: 
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: 
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: 
 
 interests:
   - Hybrid Battery Replacement
