@@ -1,16 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Hybrid Battery Service USA
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
+tagline: Refurbished Hybrid Batteries | Expert Replacement & DIY Guides
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+business_name: Hybrid Battery Service USA
+seo_keywords: hybrid battery replacement, refurbished hybrid batteries, Prius battery, Camry battery
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: 
 
 # Status emoji
 status:
@@ -23,7 +24,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Refurbished Hybrid Batteries | Expert Replacement & DIY Guides
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -50,9 +51,12 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Hybrid Battery Replacement
+  - Refurbished Hybrid Batteries
+  - DIY Installation Guides
+  - Prius & Camry Batteries
+  - Fast Shipping USA
+
 
 education:
   - area: PhD Artificial Intelligence
@@ -186,4 +190,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hybrid Battery Service USA specializes in high-quality refurbished hybrid batteries for vehicles like Prius and Camry. Our team of experts ensures fast shipping, reliable replacement, and easy-to-follow DIY guides. We are committed to helping hybrid vehicle owners extend the life of their batteries while saving money.
+
