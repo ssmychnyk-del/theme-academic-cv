@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'Get high-quality refurbished hybrid batteries in the USA. Expert replacement, DIY-friendly guides, and fast shipping for Prius, Camry, and other hybrid vehicles.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Hybrid Battery"
 
 # Site footer
 footer:
